@@ -11,6 +11,7 @@ Browse safely!
 
 HOW TO USE
 ----------
+REQUIRED - Install WinRAR to extract the .rar file
 
 Run the "Cloakr.bat" file with administrator permissions.
 Then you will see a list of options once run:
