@@ -1,0 +1,207 @@
+2026/11/12 11:08:31 Using existing driver 0.14
+2026/11/12 11:08:31 Creating adapter
+{"level":"info","ts":1794445711.7519643,"caller":"engine/engine.go:250","msg":"[STACK] tun://torsurf <-> socks5://127.0.0.1:9050"}
+2026/11/12 11:08:31 Removed orphaned adapter "torsurf 1"
+{"level":"warn","ts":1794445715.5831819,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445716.3374667,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445716.9892507,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:49414 <-> 172.172.255.217:443"}
+{"level":"warn","ts":1794445717.074208,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445717.0894659,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445717.8338501,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445717.84985,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 10.66.0.255:137: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445718.246428,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30621 <-> 143.204.233.28:443"}
+{"level":"info","ts":1794445719.097872,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30625 <-> 2.23.90.148:443"}
+{"level":"info","ts":1794445723.3916404,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30627 <-> 4.150.223.105:443"}
+{"level":"info","ts":1794445724.2429917,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30629 <-> 4.150.223.105:443"}
+{"level":"info","ts":1794445724.680364,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30631 <-> 20.190.177.83:443"}
+{"level":"info","ts":1794445724.758565,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30633 <-> 116.202.120.181:443"}
+{"level":"info","ts":1794445724.758565,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:18855 <-> 40.104.62.242:443"}
+{"level":"info","ts":1794445724.758565,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33277 <-> 40.104.62.242:443"}
+{"level":"info","ts":1794445725.2739594,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33280 <-> 13.107.5.93:443"}
+{"level":"info","ts":1794445725.6111245,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33286 <-> 20.76.64.74:443"}
+{"level":"info","ts":1794445725.6111245,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33283 <-> 20.76.64.74:443"}
+{"level":"info","ts":1794445725.6111245,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33282 <-> 20.76.64.74:443"}
+{"level":"info","ts":1794445727.8027287,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:62040 <-> 92.123.135.132:443"}
+{"level":"info","ts":1794445728.1304317,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:4843 <-> 20.190.181.23:443"}
+{"level":"warn","ts":1794445730.3353643,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 92.123.135.132:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445730.643562,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 92.123.135.132:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445730.74781,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:3570 <-> 92.123.135.132:443"}
+{"level":"info","ts":1794445731.0207257,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:45878 <-> 92.123.135.132:443"}
+{"level":"warn","ts":1794445731.2880237,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 92.123.135.132:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445732.0504587,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:55246 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445732.0504587,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16040 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445732.0504587,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:55509 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.069073,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:46699 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.0745282,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:2046 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.0753965,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9391 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.2278624,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9229 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.2289133,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:61382 <-> 82.145.216.59:443"}
+{"level":"info","ts":1794445732.2303586,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26779 <-> 185.26.182.89:443"}
+{"level":"info","ts":1794445732.3793252,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:38630 <-> 82.145.216.59:443"}
+{"level":"info","ts":1794445732.461367,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:64156 <-> 107.167.110.216:443"}
+{"level":"info","ts":1794445732.4643872,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:8253 <-> 142.251.38.110:80"}
+{"level":"info","ts":1794445732.4643872,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:22369 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445732.4643872,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:22338 <-> 185.26.182.112:443"}
+{"level":"warn","ts":1794445732.4667845,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 92.123.135.132:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445732.4852257,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 40.104.62.242:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445732.6085815,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:33073 <-> 142.251.38.110:80"}
+{"level":"info","ts":1794445732.6296864,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:48100 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445732.6370783,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:46820 <-> 213.155.157.16:443"}
+{"level":"info","ts":1794445732.6625633,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:29920 <-> 185.26.182.124:443"}
+{"level":"warn","ts":1794445732.780373,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 40.104.62.242:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445733.062263,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:10923 <-> 2.22.145.81:443"}
+{"level":"info","ts":1794445733.193578,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:11553 <-> 34.54.255.56:443"}
+{"level":"info","ts":1794445733.193578,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:42493 <-> 34.54.255.56:443"}
+{"level":"info","ts":1794445733.335073,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:13111 <-> 148.251.55.148:443"}
+{"level":"info","ts":1794445733.335073,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:47244 <-> 148.251.55.148:443"}
+{"level":"warn","ts":1794445733.3920097,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 40.104.62.242:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445733.4674394,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:14086 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4674394,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30156 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4674394,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:58892 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4711192,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:47296 <-> 148.251.55.148:443"}
+{"level":"info","ts":1794445733.4716504,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:41891 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4716504,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:56841 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4716504,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:40563 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445733.4716504,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:65235 <-> 148.251.55.148:443"}
+{"level":"info","ts":1794445733.5071585,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:45700 <-> 2.22.145.81:443"}
+{"level":"info","ts":1794445733.5071585,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:22515 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445733.5071585,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:22464 <-> 34.54.255.56:443"}
+{"level":"info","ts":1794445733.5071585,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:40610 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445733.5071585,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:25409 <-> 34.54.255.56:443"}
+{"level":"info","ts":1794445733.5826592,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26730 <-> 107.167.110.216:443"}
+{"level":"info","ts":1794445733.8966799,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:42423 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445733.8966799,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:65152 <-> 92.123.135.132:443"}
+{"level":"info","ts":1794445734.0454185,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30331 <-> 142.251.154.119:443"}
+{"level":"info","ts":1794445734.0457268,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:45312 <-> 185.26.182.118:443"}
+{"level":"info","ts":1794445734.2325926,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:37701 <-> 92.123.135.132:443"}
+{"level":"warn","ts":1794445734.3447373,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 92.123.135.132:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445734.3908298,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:58862 <-> 2.22.145.94:443"}
+{"level":"info","ts":1794445734.3908298,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:19407 <-> 2.22.145.94:443"}
+{"level":"info","ts":1794445734.3908298,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:39848 <-> 2.22.145.94:443"}
+{"level":"info","ts":1794445734.3908298,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:40809 <-> 92.123.135.132:443"}
+{"level":"info","ts":1794445734.465471,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:58279 <-> 2.22.145.94:443"}
+{"level":"info","ts":1794445734.465471,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:29393 <-> 185.26.182.90:443"}
+{"level":"info","ts":1794445734.4690683,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9297 <-> 2.22.145.94:443"}
+{"level":"warn","ts":1794445734.596265,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 40.104.62.242:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445734.8165996,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:60915 <-> 82.145.216.15:443"}
+{"level":"info","ts":1794445734.9081028,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:21382 <-> 3.105.209.8:443"}
+{"level":"info","ts":1794445734.908614,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:60609 <-> 3.105.209.8:443"}
+{"level":"info","ts":1794445735.1461365,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:37224 <-> 172.217.19.238:443"}
+{"level":"info","ts":1794445735.1650202,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:61816 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445735.2831593,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27691 <-> 173.194.73.188:5228"}
+{"level":"info","ts":1794445735.2831593,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:59622 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445735.3167675,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24693 <-> 2.23.89.159:443"}
+{"level":"info","ts":1794445735.3291175,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24691 <-> 142.251.143.142:443"}
+{"level":"info","ts":1794445735.4426644,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:41913 <-> 3.105.209.8:443"}
+{"level":"info","ts":1794445735.497635,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24700 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.5191548,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24699 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.5197468,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24698 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.5197468,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24703 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24701 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24702 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24697 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:19107 <-> 185.26.182.112:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24695 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:10480 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445735.7797275,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24696 <-> 2.23.88.188:443"}
+{"level":"warn","ts":1794445736.4835064,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 40.104.62.242:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445737.0246782,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:32791 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.0246782,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:38185 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.1233997,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:10485 <-> 2.23.89.159:443"}
+{"level":"info","ts":1794445737.1233997,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26939 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.1835942,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26943 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445737.2157037,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:8793 <-> 82.145.216.59:443"}
+{"level":"info","ts":1794445737.2157037,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26947 <-> 2.23.89.159:443"}
+{"level":"info","ts":1794445737.216243,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:19216 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.216243,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:65167 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.216243,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:20041 <-> 82.145.216.59:443"}
+{"level":"info","ts":1794445737.216243,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:45131 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.234004,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:17567 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.303041,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:43870 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.3043938,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:4071 <-> 82.145.216.59:443"}
+{"level":"info","ts":1794445737.3043938,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:45849 <-> 185.26.182.94:443"}
+{"level":"info","ts":1794445737.939758,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:60647 <-> 104.18.22.55:443"}
+{"level":"info","ts":1794445737.9428003,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:57169 <-> 3.105.209.8:443"}
+{"level":"info","ts":1794445738.0695364,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:52802 <-> 2.16.56.91:443"}
+{"level":"info","ts":1794445738.23335,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:22312 <-> 23.53.32.202:443"}
+{"level":"warn","ts":1794445738.2978582,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 142.251.143.142:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445738.481848,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:62201 <-> 23.53.32.202:443"}
+{"level":"warn","ts":1794445738.6015742,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 142.251.143.142:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445738.7825518,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:62205 <-> 2.23.89.159:443"}
+{"level":"info","ts":1794445738.7865818,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:29373 <-> 142.251.143.142:443"}
+{"level":"info","ts":1794445738.8747969,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:64463 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445738.8766289,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:12542 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445738.8766289,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30241 <-> 2.16.56.91:443"}
+{"level":"info","ts":1794445739.1620803,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:20717 <-> 3.105.209.8:443"}
+{"level":"info","ts":1794445739.16653,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:64613 <-> 142.251.143.142:443"}
+{"level":"info","ts":1794445739.16653,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24446 <-> 20.52.64.207:443"}
+{"level":"warn","ts":1794445739.2084126,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 142.251.143.142:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445739.6796079,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24449 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445739.689752,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24451 <-> 20.190.181.23:443"}
+{"level":"info","ts":1794445739.7289042,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24454 <-> 2.23.88.188:443"}
+{"level":"warn","ts":1794445740.4238296,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 142.251.143.142:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445740.9424942,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:5816 <-> 23.53.32.99:443"}
+{"level":"info","ts":1794445741.280398,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:4582 <-> 20.52.64.207:443"}
+{"level":"info","ts":1794445742.1116586,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:50244 <-> 2.16.56.88:443"}
+{"level":"warn","ts":1794445742.3082135,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 142.251.143.142:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445743.035563,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:55969 <-> 23.53.32.99:443"}
+{"level":"info","ts":1794445743.1743639,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:2596 <-> 2.16.56.50:443"}
+{"level":"info","ts":1794445743.174957,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:28401 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445743.2321954,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:14588 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445743.3724887,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:56143 <-> 213.155.157.59:443"}
+{"level":"info","ts":1794445743.4474983,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:49108 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445743.4500055,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:24030 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445743.5052862,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:34063 <-> 23.53.32.202:443"}
+{"level":"info","ts":1794445743.5738647,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:59822 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445743.5738647,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:39884 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445743.5738647,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:43107 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445743.6425686,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:6194 <-> 213.155.157.59:443"}
+{"level":"info","ts":1794445743.6554742,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:37130 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445743.7221887,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:36972 <-> 80.239.150.105:443"}
+{"level":"info","ts":1794445743.7996974,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:13133 <-> 80.239.150.105:443"}
+{"level":"info","ts":1794445743.7996974,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:34245 <-> 2.16.56.91:443"}
+{"level":"info","ts":1794445743.858016,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:52836 <-> 213.155.157.82:443"}
+{"level":"info","ts":1794445743.9639173,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:52838 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445743.9703727,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9720 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445744.2229764,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9724 <-> 20.190.181.23:443"}
+{"level":"info","ts":1794445744.2272007,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:20947 <-> 23.53.32.99:443"}
+{"level":"info","ts":1794445744.5393314,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:20949 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445745.2285836,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:26131 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445745.3093765,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:53246 <-> 80.239.150.105:443"}
+{"level":"info","ts":1794445745.3920305,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:55656 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445745.6715782,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:30135 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445745.7354302,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:11142 <-> 80.239.150.105:443"}
+{"level":"info","ts":1794445745.7359428,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:11797 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445745.8886993,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:31540 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445746.1852524,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:31542 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445746.4626803,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:17252 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445747.1525972,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:48782 <-> 172.217.20.187:443"}
+{"level":"info","ts":1794445747.4706125,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:48784 <-> 2.23.89.159:80"}
+{"level":"info","ts":1794445747.4711342,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27272 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445748.039652,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27274 <-> 20.190.181.23:443"}
+{"level":"info","ts":1794445748.3657267,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27276 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445748.368261,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27278 <-> 172.205.25.163:443"}
+{"level":"warn","ts":1794445748.4043386,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 172.217.20.187:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445748.6014638,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9906 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445748.6020608,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:27280 <-> 2.23.89.159:80"}
+{"level":"info","ts":1794445748.6020608,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9908 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445748.6745517,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:9912 <-> 185.26.182.124:443"}
+{"level":"warn","ts":1794445748.7104442,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 172.217.20.187:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445748.959098,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:28107 <-> 80.239.150.74:443"}
+{"level":"info","ts":1794445748.959098,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16140 <-> 80.239.150.74:443"}
+{"level":"warn","ts":1794445749.3243384,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 172.217.20.187:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"warn","ts":1794445749.508161,"caller":"tunnel/udp.go:31","msg":"[UDP] dial 172.217.20.187:443: client handshake: UDP ASSOCIATE: command not supported"}
+{"level":"info","ts":1794445749.9682271,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16146 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445751.947291,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16149 <-> 142.251.143.131:80"}
+{"level":"info","ts":1794445752.484353,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16151 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445752.5640733,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16153 <-> 92.123.135.147:80"}
+{"level":"info","ts":1794445753.4412024,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:49415 <-> 4.207.247.137:443"}
+{"level":"info","ts":1794445754.3732939,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16156 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445754.5616438,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:49416 <-> 4.207.247.137:443"}
+{"level":"info","ts":1794445754.6095107,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16159 <-> 40.98.16.90:443"}
+{"level":"info","ts":1794445754.6095107,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16160 <-> 40.98.16.90:443"}
+{"level":"info","ts":1794445755.9482756,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16163 <-> 185.26.182.124:443"}
+{"level":"info","ts":1794445756.7828333,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:16165 <-> 2.23.88.188:443"}
+{"level":"info","ts":1794445757.192446,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:13597 <-> 23.216.134.137:443"}
+{"level":"info","ts":1794445757.2670114,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:12029 <-> 23.216.134.137:443"}
+{"level":"info","ts":1794445757.2776742,"caller":"tunnel/tcp.go:42","msg":"[TCP] 10.66.0.2:5490 <-> 23.216.134.137:443"}

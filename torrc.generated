@@ -1,0 +1,9 @@
+SocksPort 127.0.0.1:9050
+DNSPort 127.0.0.1:53
+ControlPort 127.0.0.1:9051
+CookieAuthentication 1
+OutboundBindAddress 172.16.28.8
+DataDirectory C:/Cloakr/tor-data
+Log notice file C:/Cloakr/tor.log
+GeoIPFile C:/Cloakr/data/geoip
+GeoIPv6File C:/Cloakr/data/geoip6

@@ -1,0 +1,45 @@
+Nov 12 11:08:24.000 [notice] Tor 0.4.9.16 (git-c51547ca15ea6659) opening new log file.
+Nov 12 11:08:24.795 [notice] We compiled with OpenSSL 30500090: OpenSSL 3.5.9 29 Sep 2026 and we are running with OpenSSL 30500090: 3.5.9. These two versions should be binary compatible.
+Nov 12 11:08:24.805 [notice] Tor 0.4.9.16 (git-c51547ca15ea6659) running on Windows 8 [or later] with Libevent 2.1.13-stable, OpenSSL 3.5.9, Zlib 1.4, Liblzma N/A, Libzstd N/A and Unknown N/A as libc.
+Nov 12 11:08:24.805 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Nov 12 11:08:24.836 [notice] Read configuration file "C:\Cloakr\torrc.generated".
+Nov 12 11:08:24.841 [warn] Path for DataDirectory (C:/Cloakr/tor-data) is relative and will resolve to C:\Cloakr\tor-data. Is this what you wanted?
+Nov 12 11:08:24.841 [warn] Path for GeoIPFile (C:/Cloakr/data/geoip) is relative and will resolve to C:\Cloakr\data\geoip. Is this what you wanted?
+Nov 12 11:08:24.841 [warn] Path for GeoIPv6File (C:/Cloakr/data/geoip6) is relative and will resolve to C:\Cloakr\data\geoip6. Is this what you wanted?
+Nov 12 11:08:24.843 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 12 11:08:24.843 [notice] Opened Socks listener connection (ready) on 127.0.0.1:9050
+Nov 12 11:08:24.843 [notice] Opening DNS listener on 127.0.0.1:53
+Nov 12 11:08:24.843 [notice] Opened DNS listener connection (ready) on 127.0.0.1:53
+Nov 12 11:08:24.843 [notice] Opening Control listener on 127.0.0.1:9051
+Nov 12 11:08:24.843 [notice] Opened Control listener connection (ready) on 127.0.0.1:9051
+Nov 12 11:08:24.000 [notice] Parsing GEOIP IPv4 file C:/Cloakr/data/geoip.
+Nov 12 11:08:25.000 [notice] Parsing GEOIP IPv6 file C:/Cloakr/data/geoip6.
+Nov 12 11:08:25.000 [notice] Set list of supported TLS groups to: ?*X25519MLKEM768 / ?SecP256r1MLKEM768 / *P-256:?X25519:P-224
+Nov 12 11:08:25.000 [notice] Bootstrapped 0% (starting): Starting
+Nov 12 11:08:25.000 [notice] Starting with guard context "default"
+Nov 12 11:08:27.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Nov 12 11:08:27.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Nov 12 11:08:27.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Nov 12 11:08:28.000 [notice] Circuit build expiry summary: prefix_hops_0=0 prefix_hops_1=0 prefix_hops_2=0 post_prefix=0 open_channel=0 other_channel=0 late_firsthop=0 completed=0 abandoned=0 excluded=0 adaptive=1 connection_failed=4 channels_retired=0 firsthop_preserved=0 (build stages are at measurement or circuit expiry; recovery probes may finish later)
+Nov 12 11:08:28.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Nov 12 11:08:28.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Nov 12 11:08:28.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Nov 12 11:08:28.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Nov 12 11:08:30.000 [notice] Bootstrapped 100% (done): Done
+Nov 12 11:08:36.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks.
+Nov 12 11:08:42.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [2 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:08:47.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [9 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:08:52.000 [warn] Your application (using socks5 to port 80) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [17 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:08:52.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:08:52.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:08:54.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:08:57.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [70 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:09:02.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [18 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:09:07.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [32 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:09:07.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:09:11.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:09:12.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [13 similar message(s) suppressed in last 60 seconds]
+Nov 12 11:09:13.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:09:14.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:09:16.000 [warn] Warning from libevent: Error An existing connection was forcibly closed by the remote host. (10054) while reading request.
+Nov 12 11:09:17.000 [warn] Your application (using socks5 to port 443) is giving Tor only an IP address. Applications that do DNS resolves themselves may leak information. Consider using Socks4A (e.g. via privoxy or socat) instead. For more information, please see https://2019.www.torproject.org/docs/faq.html.en#WarningsAboutSOCKSandDNSInformationLeaks. [10 similar message(s) suppressed in last 60 seconds]
